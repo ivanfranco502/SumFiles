@@ -1,5 +1,4 @@
 # SumFiles
----
 Get the sum of the values within the files/subfiles.
 ---
 ## Exercise
@@ -20,4 +19,8 @@ And file C.txt contains:
 10 2
 ```
 The sum of A.txt and its subfiles is 111, sum for B.txt is 39, and sum for C.txt is 12. 
+
 ** Note that this is just an example. The solution should be able to handle any set of files as described in the problem statement.**
+## Considerations
+- Took a recursive approach for the sake of clearer code.
+- There is a "cache" mechanism to avoid accessing a file which was already processed.
