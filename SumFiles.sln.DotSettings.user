@@ -1,0 +1,13 @@
+﻿<wpf:ResourceDictionary xml:space="preserve" xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml" xmlns:s="clr-namespace:System;assembly=mscorlib" xmlns:ss="urn:shemas-jetbrains-com:settings-storage-xaml" xmlns:wpf="http://schemas.microsoft.com/winfx/2006/xaml/presentation">
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=4ed8f9f8_002Dd2ee_002D43e6_002Db594_002D89c5fab2f80e/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" Name="FileReaderTest" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1D5908F5-FA8E-4909-A2ED-194E5A93E471::net5.0::SumFilesTest.FileReaderTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String>
+	<s:String x:Key="/Default/Environment/UnitTesting/UnitTestSessionStore/Sessions/=a76ed34d_002Df0f2_002D4f48_002D8a85_002D14915f6fcc05/@EntryIndexedValue">&lt;SessionState ContinuousTestingMode="0" IsActive="True" Name="FileReaderTest #2" xmlns="urn:schemas-jetbrains-com:jetbrains-ut-session"&gt;&#xD;
+  &lt;TestAncestor&gt;&#xD;
+    &lt;TestId&gt;xUnit::1D5908F5-FA8E-4909-A2ED-194E5A93E471::net5.0::SumFilesTest.FileReaderTest&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1D5908F5-FA8E-4909-A2ED-194E5A93E471::net5.0::SumFilesTest.SumFileTest.GetSumFile_GivenAnInvalidFile_ShouldReturnErrorMessage&lt;/TestId&gt;&#xD;
+    &lt;TestId&gt;xUnit::1D5908F5-FA8E-4909-A2ED-194E5A93E471::net5.0::SumFilesTest.SumFileTest&lt;/TestId&gt;&#xD;
+  &lt;/TestAncestor&gt;&#xD;
+&lt;/SessionState&gt;</s:String></wpf:ResourceDictionary>
